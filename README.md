@@ -18,9 +18,12 @@ Save simulation results and queue states in a log file.
 
 Technologies Used
 
-Java 
+Java
+
 Java Swing for the graphical interface
+
 Java Threads for running multiple queues
+
 Maven
 
 How It Works
